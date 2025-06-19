@@ -21,3 +21,5 @@ slurp
 swappy
 colloid-dracula
 ttf-awesome
+amneziawg-dkms
+amneziawg-tools
